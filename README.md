@@ -42,4 +42,4 @@ See [`.env.example`](.env.example) for the required keys. Provide values **at ru
 
 Find and fix the **three planted faults** so the build-and-run sequence above succeeds and the app answers at `http://localhost:8080`.
 
-## .
+## change
