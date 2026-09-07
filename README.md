@@ -37,6 +37,9 @@ See [`.env.example`](.env.example) for the required keys. Provide values **at ru
 | `APP_ENV`  | `production` | Application environment        |
 | `APP_PORT` | `5000`       | Port the server listens on     |
 
+
 ## Your task
 
 Find and fix the **three planted faults** so the build-and-run sequence above succeeds and the app answers at `http://localhost:8080`.
+
+## .
